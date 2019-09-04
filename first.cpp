@@ -1,9 +1,10 @@
 //Kevin Buffardi
 #include <iostream>
 
-int main()
+using std::cout;
+using std::cout;
 {
-  std::cout<<"Hi."<<std::endl;
+  std::cout<<"\n\n\n hi \n\n\n";
 
   return 0;
 }
